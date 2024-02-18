@@ -4,11 +4,10 @@ If you've been using your PC for a few years, you've probably encountered a clut
 
 ### 🏃‍♂️ Usage
 * Open/run `path-cleaner.exe` or put it into PATH and run `path-cleaner` in your terminal of choice.
-* Choose the scope
+* Choose the scope (<i>*requires admin privileges</i>)
   * User -> cleans the current users PATH variable
   * System* -> cleans the global PATH variable
   * Both* -> cleans both the global & the current users PATH variable
-<i>* Requires admin privileges🔐</i>
 * That's it🙌
 
 ### 🤔 What it does
