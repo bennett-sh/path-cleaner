@@ -1,0 +1,11 @@
+[package]
+name = "path-cleaner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+expand_str = "0.1.1"
+promptuity = "0.0.5"
+tempfile = "3.10.0"
+winreg = "0.52.0"
