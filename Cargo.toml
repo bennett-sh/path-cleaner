@@ -2,6 +2,8 @@
 name = "path-cleaner"
 version = "0.1.0"
 edition = "2021"
+description = "A CLI program for cleaning up your windows path"
+license = "MIT"
 
 [dependencies]
 colored = "2.1.0"
