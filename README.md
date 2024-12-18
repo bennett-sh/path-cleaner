@@ -13,8 +13,7 @@ If you've been using your PC for a few years, you've probably encountered a clut
 ### 🤔 What it does
 Path Cleaner removes the following items from the requested scope:
 * Non-existant paths
-* Duplictes
-This process supports variable expansion (e.g. `%WINDIR%`->`C:\Windows`).
+* Duplicates: this process supports variable expansion (e.g. `%WINDIR%`->`C:\Windows`).
 
 ### 📝 To-Do
 * Prefer path entries with more environment variables over constants
